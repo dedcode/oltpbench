@@ -1,5 +1,7 @@
 # OLTPBench
 
+[![Join the chat at https://gitter.im/dedcode/oltpbench](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dedcode/oltpbench?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Benchmarking is incredibly useful, yet endlessly painful. This benchmark suite is the result of a group of
 Phd/post-docs/professors getting together and combining their workloads/frameworks/experiences/efforts. We hope this
 will save other people's time, and will provide an extensible platform, that can be grown in an open-source fashion. 
